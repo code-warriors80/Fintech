@@ -1,0 +1,15 @@
+/* LANDING */
+.landing h1
+{
+  line-height: 100px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;       
+}
+
+@media screen and (max-width: 800px) 
+{
+  .landing h1
+  {
+    line-height: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;       
+  }
+}
